@@ -1,0 +1,4 @@
+cust.name = "ravi"
+cust.accno = 1111
+cust.address = "chennai"
+cust.balance = 18000
