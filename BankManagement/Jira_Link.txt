@@ -1,0 +1,1 @@
+Banking Domain Jira - https://jirapro02.atlassian.net/jira/software/projects/JT0/list?jql=project%20%3D%20JT0%20ORDER%20BY%20created%20DESC
